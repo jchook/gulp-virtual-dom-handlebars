@@ -1,0 +1,30 @@
+{
+  "name": "gulp-virutal-dom-handlebars",
+  "version": "1.0.0",
+  "description": "Gulp processor for jchook/virtual-dom-handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:jchook/gulp-virtual-dom-handlebars"
+  },
+  "keywords": [
+    "virtual",
+    "dom",
+    "vdom",
+    "handlebars"
+  ],
+  "author": "Wes Roberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchook/gulp-virtual-dom-handlebars/issues"
+  },
+  "homepage": "https://github.com/jchook/gulp-virtual-dom-handlebars",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0",
+    "virtual-dom-handlebars": "0.0.1"
+  }
+}
