@@ -1,5 +1,5 @@
 {
-  "name": "gulp-virutal-dom-handlebars",
+  "name": "gulp-virtual-dom-handlebars",
   "version": "1.0.0",
   "description": "Gulp processor for jchook/virtual-dom-handlebars",
   "main": "index.js",

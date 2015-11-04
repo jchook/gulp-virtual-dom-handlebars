@@ -17,7 +17,7 @@ gulpfile.js
 
 	var gulp = require('gulp');
 	var source = require('vinyl-source-stream');
-	var handlebars = require('gulp-virutal-dom-handlebars');
+	var handlebars = require('gulp-virtual-dom-handlebars');
 	var declare = require('gulp-declare');
 	var concat = require('gulp-concat-util');
 
